@@ -1,5 +1,5 @@
 <template>
-  <section class="py-16 px-6 md:px-16 bg-gray-50 overflow-x-hidden">
+  <section class="py-16 px-6 md:px-16 bg-gray-50 overflow-x-hidden md:overflow-x-visible">
     <h2
       class="text-3xl md:text-4xl font-bold text-center mb-10"
       data-aos="fade-up"

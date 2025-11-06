@@ -1,6 +1,6 @@
 <template>
   <section
-    class="px-6 md:px-16 pt-10 md:pt-24 pb-16 flex flex-col md:flex-row items-center gap-12 md:gap-20 bg-white overflow-x-hidden"
+    class="px-6 md:px-16 pt-10 md:pt-24 pb-16 flex flex-col md:flex-row items-center gap-12 md:gap-20 bg-white overflow-x-hidden md:overflow-x-visible"
   >
     <!-- Image Section -->
     <div class="w-full md:w-1/2" data-aos="fade-right" data-aos-duration="800" data-aos-delay="0">

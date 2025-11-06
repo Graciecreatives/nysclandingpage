@@ -1,5 +1,5 @@
 <template>
-  <section class="px-6 sm:px-10 md:px-16 py-5 md:py-10 flex flex-col-reverse md:flex-row items-center justify-between gap-10 overflow-x-hidden">
+  <section class="px-6 sm:px-10 md:px-16 py-5 md:py-10 flex flex-col-reverse md:flex-row items-center justify-between gap-10 overflow-x-hidden md:overflow-x-visible">
     <div class="w-full md:w-[70%] flex justify-center"  data-aos="zoom-in" 
       data-aos-delay="400"
       data-aos-duration="800">

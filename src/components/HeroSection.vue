@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-24 px-6 md:px-16 text-center bg-gray-50 overflow-x-hidden">
+  <section class="pt-24 px-6 md:px-16 text-center bg-gray-50 overflow-x-hidden md:overflow-x-visible">
     <!-- Heading -->
     <h1 
     data-aos="fade-up"
@@ -42,7 +42,7 @@
 
    <!-- Marquee Section -->
     <div class="mt-16 relative w-full overflow-hidden" data-aos="fade-up"
-      data-aos-delay="600">
+      data-aos-delay="400">
       <div class="flex items-center gap-10 animate-marquee">
         <img src="../assets/Images/carousel_1.jpg" alt="carousel 1" class="h-48 w-auto rounded-xl object-cover" />
         <img src="../assets/Images/carousel_2.jpg" alt="carousel 2" class="h-48 w-auto rounded-xl object-cover" />
