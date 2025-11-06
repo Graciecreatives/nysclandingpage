@@ -1,5 +1,5 @@
 <template>
-  <section class="px-6 md:px-16 pt-24 flex flex-col md:flex-row items-center gap-12 md:gap-20 bg-white py-10">
+  <section class="px-6 md:px-16 pt-24 flex flex-col md:flex-row items-center gap-12 md:gap-20 bg-white py-10 overflow-x-hidden">
     <!-- Text Section -->
     <div class="w-full md:w-1/2 text-center md:text-left" data-aos="fade-right" data-aos-duration="1200">
         <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">

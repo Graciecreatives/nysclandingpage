@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[green] text-white pt-12 pb-6 px-6 md:px-16">
+  <footer class="bg-[green] text-white pt-12 pb-6 px-6 md:px-16 overflow-x-hidden">
     <!-- Footer Grid -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 mb-10">
       <!-- Quick Links -->

@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-24 px-6 md:px-16 text-center bg-gray-50">
+  <section class="pt-24 px-6 md:px-16 text-center bg-gray-50 overflow-x-hidden">
     <!-- Heading -->
     <h1 
     data-aos="fade-up"

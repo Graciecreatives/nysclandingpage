@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed top-0 left-0 w-full  bg-[green] shadow-lg z-50">
+  <nav class="fixed top-0 left-0 w-full  bg-[green] shadow-lg z-50 overflow-x-hidden">
     <div class="max-w-7xl mx-auto px-5 md:px-10 flex justify-between items-center h-16">
       <!-- Logo -->
       <div class="flex items-center space-x-3">
